@@ -1,39 +1,34 @@
-Creazione di test con *Moodle*
-==============================
+Creazione di test con Moodle
+============================
 :author: Gionata Massi
 :Email: gionata.massi@savoiabenincasa.it
-:Date: 26 maggio 2016
-:Revision: {sys: git log -1 --format=%cd {docfile}}
-:backend: slidy
+:description: Presentaz
+:Revision: {sys: git log -1 --format="data: %cd; hash: %h" MOODLE_Quiz.adoc}
+:Date: <br>I.I.S. ``Savoia Benincasa'', Ancona -- 26 maggio 2016
 :max-width: 45em
 :data-uri:
 :icons:
-
+:backend: slidy
 Premere la barra spaziatrice o la freccia a sinistra per continuare la presentazione.
 
-Chi sono?
----------
+== Chi sono?
+
 
 * Docente a tempo determinato
-
 ** abilitato all'insegnamento dell'Informatica
-
 * Ingegnere elettronico
-
 ** appassionato d'informatica
-
 * Tra i miei interessi:
-
 [role="incremental"] 
 
 ** trattamento automatico delle informazioni
 ** sistemi informativi e informatici
 ** e-learning
+[role="incremental"] 
 
 *** Moodle!!!
 
-Perché io?
-----------
+== Perché io?
 
 Esperienze con Moodle da studente
 
@@ -51,24 +46,16 @@ Esperienze con Moodle da docente
 [role="incremental"]
 
 * Docenza a contratto presso una Università telematica - 12/2010 -- 07/2014
-
 ** erogazione del materiale didattico
 ** raccolta delle consegne
 ** tracciamento delle attività degli studenti
 
 * *_Hic et nunc_*: I.I.S. ``Savoia Benincasa'' - 09/2015-06/2016
-
 ** realizzazione delle prove e relativa valutazione
 
-
-
-
-
-Perché i test?
---------------
+== Perché i test?
 
 * Sono facili da realizzare con Moodle!
-
 ** rappresentano un facile punto d'accesso alla piattaforma
 
 [role="incremental"]
@@ -102,8 +89,29 @@ Gestisce e condivisione della valutazione:
 * la raccolta degli artefatti particolarmente significativi è il *portfolio*
 * le più diverse strategie docimologiche e metodi d'inferenza statistica!
 
-Live session
-------------
+== Docimologia
+
+La valutazione
+
+[quote, Scopi della valutazione, Docimologia -- Wikipedia]
+____
+* permette di collocare gli studenti in corrispondenza ad un livello, su una scala ordinata di obiettivi.
+* è un mezzo per certificare che gli obiettivi formativi sono stati raggiunti.
+* è uno strumento pedagogico (valutazione formativa), in quanto può contribuire alla realizzazione dei progressi dello studente.
+* è uno strumento di selezione (valutazione certificativa).
+____
+
+* deve essere finalizzata al miglioramento.
+
+== Docimologia
+
+* Balanced Assessment
+
+* Oggi: i quiz e i tipi domande
+** le domande si possono inserire nei quiz e nelle lezioni, come prove formative
+
+== Live session
+
 
 * Login
 
@@ -124,8 +132,7 @@ Bibliografia
 ------------
 
 [bibliography]
-- [[[taoup]]] Eric Steven Raymond. 'The Art of Unix
-  Programming'. Addison-Wesley. ISBN 0-13-142901-9.
+- [[[baldascino2013]]] Roberto Baldascino. 'Un sistema di valutazione integrato tramite Moodle'. Atti del MoodleMoot Italia. 2013. ISBN: 978-88-907493-1-5.
 - [[[walsh-muellner]]] Norman Walsh & Leonard Muellner.
   'DocBook - The Definitive Guide'. O'Reilly & Associates. 1999.
   ISBN 1-56592-580-7.
