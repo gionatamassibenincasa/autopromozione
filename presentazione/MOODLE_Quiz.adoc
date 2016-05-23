@@ -1,0 +1,131 @@
+Creazione di test con *Moodle*
+==============================
+:author: Gionata Massi
+:Email: gionata.massi@savoiabenincasa.it
+:Date: 26 maggio 2016
+:Revision: {sys: git log -1 --format=%cd {docfile}}
+:backend: slidy
+:max-width: 45em
+:data-uri:
+:icons:
+
+Premere la barra spaziatrice o la freccia a sinistra per continuare la presentazione.
+
+Chi sono?
+---------
+
+* Docente a tempo determinato
+
+** abilitato all'insegnamento dell'Informatica
+
+* Ingegnere elettronico
+
+** appassionato d'informatica
+
+* Tra i miei interessi:
+
+[role="incremental"] 
+
+** trattamento automatico delle informazioni
+** sistemi informativi e informatici
+** e-learning
+
+*** Moodle!!!
+
+Perché io?
+----------
+
+Esperienze con Moodle da studente
+
+[role="incremental"]
+
+* Tirocinio Formativo Attivo presso Unicam - 12/2014 -- 07/2015
+
+** fruizione del materiale didattico
+** discussione tramite ``forum''
+** verifiche formative e sommative (quiz e consegne)
+** creazione di ``corsi'' virtuali e attività didattiche simulate
+
+Esperienze con Moodle da docente
+
+[role="incremental"]
+
+* Docenza a contratto presso una Università telematica - 12/2010 -- 07/2014
+
+** erogazione del materiale didattico
+** raccolta delle consegne
+** tracciamento delle attività degli studenti
+
+* *_Hic et nunc_*: I.I.S. ``Savoia Benincasa'' - 09/2015-06/2016
+
+** realizzazione delle prove e relativa valutazione
+
+
+
+
+
+Perché i test?
+--------------
+
+* Sono facili da realizzare con Moodle!
+
+** rappresentano un facile punto d'accesso alla piattaforma
+
+[role="incremental"]
+
+Tanti tipi di prove:
+
+[role="incremental"]
+
+* Quiz -- valutare ciò che lo studente conosce
+[role="incremental"]
+** correzione e valutazione automatica, prove oggettive, assenza di errori umani nella correzione
+** buona accettazione della valutazione da parte degli studenti (nella mia esperienza)
+** possibilità di valutare validità, affidabiità, coerenza e congruenza
+[role="incremental"]
+** prove comuni (con verifica della conoscenza)???
+
+
+* Compiti ``autentici'' con presentazione di artefatti -- ciò che lo studente è capace di fare
+[role="incremental"]
+** file, glossari...
+** prove multidisciplinari (UdA)???
+** lavori di gruppo???
+
+[role="incremental"]
+
+Gestisce e condivisione della valutazione:
+
+[role="incremental"]
+
+* scale, griglie di valutazione, valutazione tra pari, matrici di osservazione...
+* la raccolta degli artefatti particolarmente significativi è il *portfolio*
+* le più diverse strategie docimologiche e metodi d'inferenza statistica!
+
+Live session
+------------
+
+* Login
+
+* Attività -> Quiz
+
+* Domande
+** Vero/Falso
+** Risposta multipla
+** Cloze
+** Risposte brevi
+** Completamenti
+** Numeriche e calcolate
+
+
+
+[bibliography]
+Bibliografia
+------------
+
+[bibliography]
+- [[[taoup]]] Eric Steven Raymond. 'The Art of Unix
+  Programming'. Addison-Wesley. ISBN 0-13-142901-9.
+- [[[walsh-muellner]]] Norman Walsh & Leonard Muellner.
+  'DocBook - The Definitive Guide'. O'Reilly & Associates. 1999.
+  ISBN 1-56592-580-7.
