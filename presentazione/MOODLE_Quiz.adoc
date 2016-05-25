@@ -1,46 +1,73 @@
 Creazione di test con Moodle
 ============================
+:lang: it
 :author: Gionata Massi
 :Email: gionata.massi@savoiabenincasa.it
 :description: Presentaz
-:Revision: {sys: git log -1 --format="data: %cd; hash: %h" MOODLE_Quiz.adoc}
-:Date: <br>I.I.S. ``Savoia Benincasa'', Ancona -- 26 maggio 2016
+//:Revision: {sys: git log -1 --format="data: %cd; hash: %h" MOODLE_Quiz.adoc}
+:Date: I.I.S. ``Savoia Benincasa'', Ancona -- 26 maggio 2016
 :max-width: 45em
 :data-uri:
 :icons:
 :backend: slidy
+:encoding: utf-8
 Premere la barra spaziatrice o la freccia a sinistra per continuare la presentazione.
+
+== Perché sei qui?
+
+Obiettivo generale: perché trascorro altre due ore a scuola?
+
+
+[role="incremental"]
+* per (auto)formazione su un ``Moodle''
+
+[role="incremental"]
+Obiettivi formativi
+
+[role="incremental"]
+* conoscere un ambiente per l'erogazione di corsi online;
+* saper accedere alla piattaforma;
+* saper accedere ai propri corsi;
+* saper modificare un corso con l'aggiunta di attività di verifica;
+* saper aggiungere domande ad una verifica strutturata.	
+
+[role="incremental"]
+Piano di lavoro
+
+[role="incremental"]
+* Introduzione
+** presentazione del relatore;
+** presentazione di Moodle;
+* *Laboratorio*
 
 == Chi sono?
 
+[role="incremental"]
+Un docente a tempo determinato
 
-* Docente a tempo determinato
-** abilitato all'insegnamento dell'Informatica
-* Ingegnere elettronico
-** appassionato d'informatica
-* Tra i miei interessi:
-[role="incremental"] 
+[role="incremental"]
+* abilitato all'insegnamento dell'Informatica
 
-** trattamento automatico delle informazioni
-** sistemi informativi e informatici
-** e-learning
-[role="incremental"] 
+[role="incremental"]
+Una persona con interesse per
 
-*** Moodle!!!
+[role="incremental"]
+* i sistemi informativi e informatici per l'apprendimento
+[role="incremental"]
+** Moodle!!!
 
 == Perché io?
 
 Esperienze con Moodle da studente
 
 [role="incremental"]
-
 * Tirocinio Formativo Attivo presso Unicam - 12/2014 -- 07/2015
-
 ** fruizione del materiale didattico
 ** discussione tramite ``forum''
 ** verifiche formative e sommative (quiz e consegne)
 ** creazione di ``corsi'' virtuali e attività didattiche simulate
-
+* Corsi MOOC (coursera, sololearn)
+[role="incremental"]
 Esperienze con Moodle da docente
 
 [role="incremental"]
@@ -55,66 +82,59 @@ Esperienze con Moodle da docente
 
 == Perché i test?
 
-* Sono facili da realizzare con Moodle!
-** rappresentano un facile punto d'accesso alla piattaforma
+Un'attività tra le più semplici da realizzare con Moodle
 
 [role="incremental"]
-
-Tanti tipi di prove:
+* rappresentano un facile punto d'accesso alla piattaforma
 
 [role="incremental"]
+Vari tipi di prove
 
-* Quiz -- valutare ciò che lo studente conosce
 [role="incremental"]
-** correzione e valutazione automatica, prove oggettive, assenza di errori umani nella correzione
+* Compiti
+* Quiz
+* Database
+* Glossari
+* Laboratori
+
+== Quiz
+
+Quiz -- simolo chiuso risposta {chiusa, aperta} -- valutare le conoscenze
+
+[role="incremental"]
+* Risposta chiusa
+** correzione e valutazione automatica, oggettiva e priva di errori
 ** buona accettazione della valutazione da parte degli studenti (nella mia esperienza)
-** possibilità di valutare validità, affidabiità, coerenza e congruenza
-[role="incremental"]
-** prove comuni (con verifica della conoscenza)???
+** possibilità di valutare la prova: validità, affidabiità, coerenza
+** possibilità di valutare gli item: facilità, equiattrazione...
+ 
+* proposta: [red]#prove comuni# per verifiche della conoscenza
 
+== Compiti
 
-* Compiti ``autentici'' con presentazione di artefatti -- ciò che lo studente è capace di fare
-[role="incremental"]
-** file, glossari...
-** prove multidisciplinari (UdA)???
-** lavori di gruppo???
+Compiti con presentazione di artefatti -- valutare le abilità e le competenze
 
 [role="incremental"]
+* consegne di file (qualsiasi documento)
+* prova e correzione sempre disponibile per studente e famiglia
+* proposta: [red]#prove multidisciplinari (UdA)#???
 
-Gestisce e condivisione della valutazione:
+== Valutazione
 
-[role="incremental"]
+Moodle permette di:
+* adottare più scale e/o criteri di valutazione
+* creare e condividere le griglie di valutazione
+* realizzare valutazioni tra pari (blind, double blind...)
+* valutare in modo puntuale nel tempo (sincronica) o di progresso (diacronica)
+* costruire portfoli come raccolta degli artefatti particolarmente significativi
+* valutazione secondo le più diverse strategie docimologiche
+* impiegare metodi d'inferenza statistica per la valutazione
 
-* scale, griglie di valutazione, valutazione tra pari, matrici di osservazione...
-* la raccolta degli artefatti particolarmente significativi è il *portfolio*
-* le più diverse strategie docimologiche e metodi d'inferenza statistica!
-
-== Docimologia
-
-La valutazione
-
-[quote, Scopi della valutazione, Docimologia -- Wikipedia]
-____
-* permette di collocare gli studenti in corrispondenza ad un livello, su una scala ordinata di obiettivi.
-* è un mezzo per certificare che gli obiettivi formativi sono stati raggiunti.
-* è uno strumento pedagogico (valutazione formativa), in quanto può contribuire alla realizzazione dei progressi dello studente.
-* è uno strumento di selezione (valutazione certificativa).
-____
-
-* deve essere finalizzata al miglioramento.
-
-== Docimologia
-
-* Balanced Assessment
-
-* Oggi: i quiz e i tipi domande
-** le domande si possono inserire nei quiz e nelle lezioni, come prove formative
-
-== Live session
-
+== Laboratorio
 
 * Login
 
+* I miei corsi
 * Attività -> Quiz
 
 * Domande
@@ -125,6 +145,16 @@ ____
 ** Completamenti
 ** Numeriche e calcolate
 
+== Login
+
+1. Registro elettronico docenti, Interfaccia per accesso al registro di classe
+2. Consultazione
+3. Una classe qualsiasi
+4. Aula virtuale
+5. Gestore Lezioni - Moodle
+
+Se in alto non compare ``Sei collegato come ...'' allora occorre cambiare password
+
 
 
 [bibliography]
@@ -133,6 +163,4 @@ Bibliografia
 
 [bibliography]
 - [[[baldascino2013]]] Roberto Baldascino. 'Un sistema di valutazione integrato tramite Moodle'. Atti del MoodleMoot Italia. 2013. ISBN: 978-88-907493-1-5.
-- [[[walsh-muellner]]] Norman Walsh & Leonard Muellner.
-  'DocBook - The Definitive Guide'. O'Reilly & Associates. 1999.
-  ISBN 1-56592-580-7.
+
