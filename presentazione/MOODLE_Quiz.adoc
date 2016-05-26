@@ -97,6 +97,9 @@ Vari tipi di prove
 * Glossari
 * Laboratori
 
+[role="incremental"]
+Documentazione dell'attività didattica
+
 == Quiz
 
 Quiz -- simolo chiuso risposta {chiusa, aperta} -- valutare le conoscenze
@@ -117,7 +120,7 @@ Compiti con presentazione di artefatti -- valutare le abilità e le competenze
 [role="incremental"]
 * consegne di file (qualsiasi documento)
 * prova e correzione sempre disponibile per studente e famiglia
-* proposta: [red]#prove multidisciplinari (UdA)#???
+* proposta: [red]#prove multidisciplinari (UdA)#
 
 == Valutazione
 
