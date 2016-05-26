@@ -116,17 +116,18 @@ Compiti con presentazione di artefatti -- valutare le abilità e le competenze
 
 [role="incremental"]
 * consegne di file (qualsiasi documento)
-* prova e correzione sempre disponibile per studente e famiglia
+* prova e correzione sempre disponibile per studenti e famiglie
 * proposta: [red]#prove multidisciplinari (UdA)#???
 
 == Valutazione
 
 Moodle permette di:
+
 * adottare più scale e/o criteri di valutazione
 * creare e condividere le griglie di valutazione
 * realizzare valutazioni tra pari (blind, double blind...)
 * valutare in modo puntuale nel tempo (sincronica) o di progresso (diacronica)
-* costruire portfoli come raccolta degli artefatti particolarmente significativi
+* costruire _portfolio_ come raccolta degli artefatti particolarmente significativi
 * valutazione secondo le più diverse strategie docimologiche
 * impiegare metodi d'inferenza statistica per la valutazione
 
@@ -155,7 +156,7 @@ Moodle permette di:
 
 Se in alto non compare ``Sei collegato come ...'' allora occorre cambiare password
 
-
+== Scelta del corso
 
 [bibliography]
 Bibliografia
