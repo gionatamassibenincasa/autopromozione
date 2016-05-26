@@ -1,9 +1,9 @@
 Creazione di test con Moodle
 ============================
 :lang: it
-:author: Gionata Massi
-:Email: gionata.massi@savoiabenincasa.it
-:description: Presentaz
+:author: Gionata Massi, Giuliano Piccini, Gabriella Pomili
+:Email: {gionata.massi,giuliano.piccini,gabriella.pomili}@savoiabenincasa.it
+:description: Presentazione del 26 maggio 2016
 //:Revision: {sys: git log -1 --format="data: %cd; hash: %h" MOODLE_Quiz.adoc}
 :Date: I.I.S. ``Savoia Benincasa'', Ancona -- 26 maggio 2016
 :max-width: 45em
